@@ -18,4 +18,4 @@ module.exports = app => {
         deleteNote(notes, req.params.id);
         res.json(notes);
     })
-};
+}; 
