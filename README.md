@@ -1,6 +1,6 @@
 # Note Taker
 
-For this project, an app called note taker was developed. The purpose of this project is to take notes and have them saved on the left side. From there, the user can view past notes that were saved.
+For this project, an app called "Note Taker" was developed. The purpose of this project is to take notes and have them saved on the left side. From there, the user can view past notes that were saved.
 
 When Note Taker is first opened, the user is presented with a page like the one shown down below. From there, the user clicks the "Get Started" button to go to a different notes page. 
 
