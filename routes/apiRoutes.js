@@ -34,5 +34,5 @@ module.exports = app => {
                 if (err) throw err
                 res.json(true)
             })
-    })
+    })  
 })};
